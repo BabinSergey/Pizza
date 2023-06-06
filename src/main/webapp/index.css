@@ -1,0 +1,45 @@
+body {
+    background: #f58d08;
+}
+
+h2 {
+    color: white;
+    font-family: Roboto;
+    margin: 5px;
+}
+
+form {
+    color: white;
+    margin: 5px;
+    font-family: Roboto;
+    font-size: large;
+}
+
+p {
+    color: white;
+    margin: 5px;
+    font-family: Roboto;
+    font-size: large;
+}
+
+li {
+    color: white;
+    margin: 5px;
+    font-family: Roboto;
+    font-size: large;
+}
+
+#constructor {
+    display: flex;
+}
+
+#form {
+    display: flex;
+    flex-direction: column;
+}
+
+#yandexmap {
+    width: 80%;
+    height: 60%;
+    margin: 10px;
+}
